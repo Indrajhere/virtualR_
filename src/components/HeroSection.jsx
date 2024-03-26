@@ -11,6 +11,8 @@ const HeroSection = () => {
           {" "}
           for developers
         </span>
+        {" "}
+        <span className=" text-lg text-neutral-600">By- ISD</span>
       </h1>
       <p className="text-lg mt-10 text-center max-w-4xl text-neutral-500">
         Empower your creativity and bring your VR app ideas to life with our
